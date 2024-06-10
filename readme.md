@@ -2,16 +2,6 @@
 
 This repository provides the source code for a simple DAW plugin, implemented using C++ and JUCE. The plugin features a basic channel strip with two audio processors connected in series: a low-pass filter and a gain trim. This can serve as a starting point for building more complex audio processing plugins.
 
-## Features
-
-- **Low-Pass Filter**: 
-  - Controls: 
-    - Cutoff Frequency
-    - Resonance
-- **Gain Trim**: 
-  - Control: 
-    - Gain
-
 ## Installation
 
 Create a default JUCE plugin project and replace the generated source files with the ones provided in this repository.
